@@ -4,7 +4,7 @@ __pycache__/
 *.pyd
 *.db
 *.sqlite3
-.env
+.venv
 *.log
 *.egg-info/
 *.egg
